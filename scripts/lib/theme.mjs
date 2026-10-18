@@ -1,0 +1,66 @@
+// DeveloperLook brand tokens (developerlook.com: ink #09040F, violet #673DE6, amber #FDC448), shared with
+// the github.com/saimulft profile. Text >= 4.5:1 and marks >= 3:1 on `surface`; amber marks use #C98500.
+export const FONT_STACK = "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif";
+
+export const THEMES = {
+  dark: {
+    name: 'dark',
+    surface: '#110C1E',
+    border: '#261D3B',
+    grid: '#221A36',
+    text: '#F4F1FF',
+    textSecondary: '#B7B0CC',
+    textMuted: '#8C84A6',
+    series: '#8B65E9',
+    highlight: '#C98500',
+    other: '#4A4263',
+    accent: '#FDC448',
+    link: '#B7A3FC',
+    mark: '#8B65E9',
+    markAlt: '#6A4ACB',
+    tile: '#1D1633',
+    buttonPrimary: '#673DE6',
+    buttonPrimaryText: '#FFFFFF',
+    buttonBorder: '#3A2F55',
+  },
+  light: {
+    name: 'light',
+    surface: '#FFFFFF',
+    border: '#E7E1F7',
+    grid: '#EDE8F8',
+    text: '#09040F',
+    textSecondary: '#514E5A',
+    textMuted: '#6B6880',
+    series: '#673DE6',
+    highlight: '#C98500',
+    other: '#CFC8E6',
+    accent: '#C98500',
+    link: '#5B37C8',
+    mark: '#673DE6',
+    markAlt: '#9277EE',
+    tile: '#F3F0FC',
+    buttonPrimary: '#673DE6',
+    buttonPrimaryText: '#FFFFFF',
+    buttonBorder: '#D6CCF2',
+  },
+};
+
+// The hero stays dark in both GitHub themes, like the developerlook.com hero.
+export const HERO = {
+  ...THEMES.dark,
+  card: '#0F0A1C',
+  glow: '#673DE6',
+  dot: '#2A2142',
+  eyebrow: '#FDC448',
+  highlightFrom: '#D9CCFF',
+  highlightTo: '#9B7BF2',
+  window: '#181229',
+  windowStroke: '#2E2448',
+  pill: '#110C1E',
+  line: '#2E2448',
+  lineStrong: '#4A4263',
+  phone: '#1D1633',
+  phoneStroke: '#3A2F55',
+  cardFrom: '#8B65E9',
+  cardTo: '#5B37C8',
+};

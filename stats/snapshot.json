@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-18T04:24:37.825Z",
+  "org": "DeveloperLook",
+  "repos": {
+    "total": 94,
+    "private": 91,
+    "public": 3,
+    "active12m": 78,
+    "active30d": 31,
+    "created12m": 54
+  },
+  "commits": {
+    "last12m": 9478,
+    "months": [
+      {
+        "month": "2025-11",
+        "count": 652
+      },
+      {
+        "month": "2025-12",
+        "count": 316
+      },
+      {
+        "month": "2026-01",
+        "count": 450
+      },
+      {
+        "month": "2026-02",
+        "count": 793
+      },
+      {
+        "month": "2026-03",
+        "count": 962
+      },
+      {
+        "month": "2026-04",
+        "count": 782
+      },
+      {
+        "month": "2026-05",
+        "count": 1135
+      },
+      {
+        "month": "2026-06",
+        "count": 1137
+      },
+      {
+        "month": "2026-07",
+        "count": 967
+      },
+      {
+        "month": "2026-08",
+        "count": 876
+      },
+      {
+        "month": "2026-09",
+        "count": 821
+      },
+      {
+        "month": "2026-10",
+        "count": 587
+      }
+    ]
+  },
+  "activeRepos": [
+    {
+      "month": "2025-11",
+      "count": 22
+    },
+    {
+      "month": "2025-12",
+      "count": 20
+    },
+    {
+      "month": "2026-01",
+      "count": 16
+    },
+    {
+      "month": "2026-02",
+      "count": 15
+    },
+    {
+      "month": "2026-03",
+      "count": 22
+    },
+    {
+      "month": "2026-04",
+      "count": 21
+    },
+    {
+      "month": "2026-05",
+      "count": 23
+    },
+    {
+      "month": "2026-06",
+      "count": 20
+    },
+    {
+      "month": "2026-07",
+      "count": 15
+    },
+    {
+      "month": "2026-08",
+      "count": 17
+    },
+    {
+      "month": "2026-09",
+      "count": 22
+    },
+    {
+      "month": "2026-10",
+      "count": 21
+    }
+  ],
+  "languages": [
+    {
+      "name": "TypeScript",
+      "percent": 44.4
+    },
+    {
+      "name": "JavaScript",
+      "percent": 40.1
+    },
+    {
+      "name": "PHP",
+      "percent": 7.1
+    },
+    {
+      "name": "PLpgSQL",
+      "percent": 2.6
+    },
+    {
+      "name": "Liquid",
+      "percent": 2.5
+    },
+    {
+      "name": "Python",
+      "percent": 1.1
+    },
+    {
+      "name": "Other",
+      "percent": 2.2
+    }
+  ],
+  "excluded": [
+    "HTML",
+    "CSS",
+    "SCSS",
+    "Sass",
+    "Less"
+  ]
+}

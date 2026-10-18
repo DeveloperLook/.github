@@ -1,0 +1,15 @@
+{
+  "name": "developerlook-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Graphics and daily engineering stats for the github.com/DeveloperLook organization profile",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test \"scripts/test/*.test.mjs\"",
+    "build:assets": "node scripts/build-assets.mjs",
+    "generate": "node scripts/generate.mjs --out dist"
+  }
+}
